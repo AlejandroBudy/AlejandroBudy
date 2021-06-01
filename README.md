@@ -11,11 +11,15 @@ val Alejandro 👨‍💻 =
       occupation = occupation {
           role = SoftwareEngineer
           at = ING
-          focusOn = BackEnd & DevOps
+          focusOn = Tech("Back-end and DevOps){
+                "Kotlin" and "Functional Programming",
+                "Kubernetes",
+                "Apache Kafka" and "Event Driven Architectures
+          }
       }
       contact = contactMe {
         linkedIn = "www.linkedin.com/in/alejandro-torres-7670bb80"
-        email = "atorresato@gmaill.com"
+        email = "atorresato@gmail.com"
       }
    }
 
