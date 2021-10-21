@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-```kotlin
-val Alejandro 👨‍💻 = 
-    person {
+```kotlin 
+   person("Alejandro Torres") {
       from = Spain
       education = education {
           master = "Computer Science"
@@ -12,9 +11,9 @@ val Alejandro 👨‍💻 =
           role = SoftwareEngineer
           at = ING
           focusOn = Tech("Back-end and DevOps){
-                "Kotlin" and "Functional Programming",
-                "Kubernetes",
-                "Apache Kafka" and "Event Driven Architectures
+                +"Kotlin" and "Functional Programming"
+                +"Kubernetes"
+                +"Apache Kafka" and "Event Driven Architectures
           }
       }
       contact = contactMe {
