@@ -13,7 +13,7 @@
           focusOn = Tech("Back-end and DevOps){
                 +"Kotlin" and "Functional Programming"
                 +"Kubernetes"
-                +"Apache Kafka" and "Event Driven Architectures
+                +"Apache Kafka" and "Event Driven Architectures"
           }
       }
       contact = contactMe {
