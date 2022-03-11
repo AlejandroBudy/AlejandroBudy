@@ -11,7 +11,8 @@
           role = SoftwareEngineer
           at = ING
           focusOn = Tech("Back-end and DevOps){
-                +"Kotlin" and "Functional Programming"
+                +"Kotlin" and "Scala" and "Functional Programming"
+                +"Reactive architectures"
                 +"Kubernetes"
                 +"Apache Kafka" and "Event Driven Architectures"
           }
