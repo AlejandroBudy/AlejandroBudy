@@ -9,7 +9,7 @@
       }
       occupation = occupation {
           role = SoftwareEngineer
-          at = ING
+          at = 47 Degrees
           focusOn = Tech("Back-end and DevOps){
                 +"Kotlin" and "Scala" and "Functional Programming"
                 +"Reactive architectures"
